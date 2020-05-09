@@ -12,7 +12,7 @@ Use **npm install** to install all packages
 
 
 # Edit config.json
-Go to utils/config.json and set the role id, guild id and the bot token. How to find the id, you'll find [here](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-server-ID-) and create an application [here](https://discord.com/developers/applications) and paste the bot token into the "". If you need help feel free to send me an friend request and i'll help you. (Vincxnt2#1910 or ping me on my [server](https://discord.io/werbung)
+Go to utils/config.json and set the role id, guild id and the bot token. How to find the id, you'll find [here](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-server-ID-) and create an application [here](https://discord.com/developers/applications) and paste the bot token into the "". If you need help feel free to send me an friend request and i'll help you. (Vincxnt2#1910 or ping me on my [server](https://discord.io/werbung))
 
 
 | Option                       | Usage                                                                               |
