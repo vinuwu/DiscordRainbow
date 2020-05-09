@@ -1,0 +1,14 @@
+{
+  "ROLE_ID": "YOUR ROLE ID",
+  "GUILD_ID": "YOUR GUILD ID",
+  "BOT_TOKEN": "YOUR DISCORD BOT TOKEN",
+  "PREFIX": "!",
+  "NEEDED_PERMS": ["ADMINISTRATOR", "MANAGE_GUILD"],
+  "ROLE_COLOR_CHANGE_IN_SECONDS": 6,
+  "MESSAGES": {
+      "THROW_ERROR": "[ERROR] Error occured: {{error}}. If you need help feel free to join https://discord.io/werbung, ping @Vincxnt2 and you'll get help",
+      "RAINBOW_ENABLED": "🌈 It's Rainbow time!! 🌈",
+      "RAINBOW_DISABLED": "Rainbow disabled!! 🦄",
+      "NO_PERMS": ":x: You can't perform this command"
+  }
+}
